@@ -1,0 +1,10 @@
+.my-list{ 
+    background-color: #1fac49;
+    padding : 8px 24px; 
+    width: 500px; 
+    font-size: 30px;
+    border: 1px solid #28adc2; 
+    box-shadow: 0 0 10px 2px #9f6262; 
+    margin:auto; }
+    ol{ margin:12px; }
+     p{text-align: center; }
